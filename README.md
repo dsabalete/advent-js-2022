@@ -1,6 +1,6 @@
 ## AdventJS Challenges
 
-![adventJs](https://i.imgur.com/iv17QFL.png)
+![adventJs](./assets/images/poster.png)
 
 ## <img src="https://adventjs.dev/android-icon-192x192.png" width="20" height="20" /> <strong> [adventJS](https://adventjs.dev/es) is an initiative from [@midudev](https://midu.dev/)</strong>
 
