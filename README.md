@@ -2,7 +2,7 @@
 
 ![adventJs](./assets/images/poster.png)
 
-## <img src="https://adventjs.dev/android-icon-192x192.png" width="20" height="20" /> <strong> [adventJS](https://adventjs.dev/es) is an initiative from [@midudev](https://midu.dev/)</strong>
+## <img src="https://adventjs.dev/android-icon-192x192.png" width="20" height="20" /> <strong> [adventJS](https://adventjs.dev/es) is a [@midudev](https://midu.dev/) initiative </strong>
 
 ## Challenges
 
@@ -38,7 +38,7 @@
 In order to execute Unit Test, first of all you need to install Jest dependency by running:
 
 ```
-npm run i
+npm install
 ```
 
 And then, you can run test by typing:
