@@ -15,7 +15,7 @@
 | #05 | [Optimizing Santa's trips](./day05/README.md)                 | [result](./day05/day05.js) | 112    |
 | #06 | [Creating Xmas decorations](./day06/README.md)                | [result](./day06/day06.js) | 120    |
 | #07 | [Doing gifts inventory](./day07/README.md)                    | [result](./day07/day07.js) | 200    |
-| #08 |                                                               |                            |        |
+| #08 | [We need a mechanic!](./day08/README.md)                      | [result](./day08/day08.js) | 140    |
 | #09 |                                                               |                            |        |
 | #10 |                                                               |                            |        |
 | #11 |                                                               |                            |        |
