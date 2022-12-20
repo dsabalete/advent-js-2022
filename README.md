@@ -16,22 +16,22 @@
 | #06 | [Creating Xmas decorations](./day06/README.md)                | [result](./day06/day06.js) | 120    |
 | #07 | [Doing gifts inventory](./day07/README.md)                    | [result](./day07/day07.js) | 200    |
 | #08 | [We need a mechanic!](./day08/README.md)                      | [result](./day08/day08.js) | 140    |
-| #09 |                                                               |                            |        |
-| #10 |                                                               |                            |        |
-| #11 |                                                               |                            |        |
-| #12 |                                                               |                            |        |
-| #13 |                                                               |                            |        |
-| #14 |                                                               |                            |        |
-| #15 |                                                               |                            |        |
-| #16 |                                                               |                            |        |
-| #17 |                                                               |                            |        |
-| #18 |                                                               |                            |        |
-| #19 |                                                               |                            |        |
-| #20 |                                                               |                            |        |
-| #21 |                                                               |                            |        |
-| #22 |                                                               |                            |        |
-| #23 |                                                               |                            |        |
-| #24 |                                                               |                            |        |
+| #09 | [Crazy Xmas lights](./day09/README.md)                        | [result](./day09/day09.js) | 300    |
+| #10 | [The Santa Claus sleigh jump](./day10/README.md)              | [result](./day10/day10.js) | 260    |
+| #11 | [Santa Claus is Scrum Master](./day11/README.md)              | [result](./day11/day11.js) | 180    |
+| #12 | [Electric sleighs, wow](./day12/README.md)                    | [result](./day12/day12.js) | 360    |
+| #13 | [Backups for Santa Claus files](./day13/README.md)            | [result](./day13/day13.js) | 300    |
+| #14 | [The best path](./day14/README.md)                            | [result](./day14/day14.js) | 300    |
+| #15 | [Decorating thee Christmas tree](./day15/README.md)           | [result](./day15/day15.js) | 80     |
+| #16 | [Fixing Santa Claus' letters](./day16/README.md)              | [result](./day16/day16.js) | 140    |
+| #17 | [Carrying gifts in bags](./day17/README.md)                   | [result](./day17/day17.js) | 100    |
+| #18 | [We ran out of ink!](./day18/README.md)                       | [result](./day18/day18.js) | 120    |
+| #19 | [Sorting the toys!](./day19/README.md)                        | [result](./day19/day19.js) | 300    |
+| #20 | [More chanllenging trips](./day20/README.md)                  | [result](./day20/day20.js) | 10     |
+| #21 | [](./day21/README.md)                                         | [result](./day21/day21.js) |        |
+| #22 | [](./day22/README.md)                                         | [result](./day22/day22.js) |        |
+| #23 | [](./day23/README.md)                                         | [result](./day23/day23.js) |        |
+| #24 | [](./day24/README.md)                                         | [result](./day24/day24.js) |        |
 
 ## Tests
 
