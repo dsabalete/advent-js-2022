@@ -30,8 +30,8 @@
 | #20 | [More chanllenging trips](./day20/README.md)                  | [result](./day20/day20.js) | 10     |
 | #21 | [Creating the gifts table](./day21/README.md)                 | [result](./day21/day21.js) | 110    |
 | #22 | [The lights in sync](./day22/README.md)                       | [result](./day22/day22.js) | 350    |
-| #23 | [](./day23/README.md)                                         | [result](./day23/day23.js) |        |
-| #24 | [](./day24/README.md)                                         | [result](./day24/day24.js) |        |
+| #23 | [Santa Claus Compiler](./day23/README.md)                     | [result](./day23/day23.js) | 10     |
+| #24 | [The last challenge is a maze](./day24/README.md)             | [result](./day24/day24.js) | 150    |
 
 ## Tests
 
